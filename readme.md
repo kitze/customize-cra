@@ -198,7 +198,7 @@ Override webpack configurations for create\-react\-app 2\.0
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://synteq.com/?ref=kitze%2Fcustomize-cra"><img src="https://synteq.com/assets/og_embed.png" width="40" alt="Synteq logo"></a><br>
+      <a href="https://synteq.com/?ref=kitze%2Fcustomize-cra"><img src="https://media.gifs.so/sponsors/kitze-io/synteq.png" width="40" alt="Synteq logo"></a><br>
       <strong><a href="https://synteq.com/?ref=kitze%2Fcustomize-cra">Synteq</a></strong><br>
       The cloud, built for developers.
     </td>
